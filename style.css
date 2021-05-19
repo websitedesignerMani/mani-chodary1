@@ -1074,7 +1074,10 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}@media (max-width: 1199px) {
+  #hero {
+    position: static;
+    width: auto;
+  }
 }
-@media (min-width:9200px) {
 
-}
