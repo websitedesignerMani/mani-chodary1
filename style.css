@@ -261,7 +261,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 1024px) {
   #hero {
-    background-attachment: fixed;
+
   }
 }
 
@@ -1074,10 +1074,4 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
-}@media (min-width: 1199px) {
-  #hero {
-    position: static;
-    width: auto;
-  }
 }
-
